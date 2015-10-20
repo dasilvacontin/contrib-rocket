@@ -1,0 +1,3 @@
+#!/bin/bash
+trail=`gh-contribs $@ | spark`
+echo "${trail}🚀"
