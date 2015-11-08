@@ -25,12 +25,7 @@ sudo sh -c "curl https://raw.githubusercontent.com/dasilvacontin/contrib-rocket/
 
 ## Dependencies
 
-You'll also need [gh-contribs][gh-contribs] and [spark][spark] in your $PATH. You could install those with the following commands:
-
-```sh
-npm i -g gh-contribs
-brew install spark
-```
+You'll need [gh-contribs][gh-contribs] and [spark][spark] in your $PATH. However, they will be installed for you the first time you execute or source contrib-rocket – [_nice_][nice]!
 
 ## Usage
 
@@ -64,6 +59,7 @@ MIT © [David da Silva](http://dasilvacont.in)
 [spark]: https://github.com/holman/spark
 [rocket-emoji]: http://emojipedia.org/rocket/
 [gh-contribs]: https://github.com/dasilvacontin/gh-contribs
+[nice]: http://gifsec.com/wp-content/uploads/2014/02/boss-gifs.gif
 [antigen]: https://github.com/zsh-users/antigen
 [zgen]: https://github.com/tarjoilija/zgen
 [zgen-reset]: https://github.com/tarjoilija/zgen#remove-the-init-script
