@@ -1,6 +1,6 @@
 ![contrib-rocket header][header-image]
 
-contrib-rocket is the awesome idea of combining [GitHub Contributions][github-contributions], [spark][spark] and a [rocket emoji][rocket-emoji] - it's like if your contributions were fueling the rocket, getting you one 'thrust' closer to the moon!
+contrib-rocket is the awesome idea of combining [GitHub Contributions][github-contributions], [spark][spark] and a [rocket emoji][rocket-emoji] - it's like if your contributions were fueling the rocket, getting you one 'thrust' closer to the moon! 🌚
 
 Strictly speaking, contrib-rocket is a minimal shell script that glues [gh-contribs][gh-contribs] and [spark][spark] together. It basically saves you writing a few characters, but it makes it feel _more exciting_.
 
