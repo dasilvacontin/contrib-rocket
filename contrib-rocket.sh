@@ -37,5 +37,5 @@ unset -f command-exists install-log
 # checks if the script is not being sourced
 # http://stackoverflow.com/questions/2683279/how-to-detect-if-a-script-is-being-sourced
 if [ "$0" = "$BASH_SOURCE" ]; then
-  contrib-rocket
+  contrib-rocket $@
 fi
