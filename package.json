@@ -7,6 +7,7 @@
     "contrib-rocket": "contrib-rocket.sh"
   },
   "scripts": {
+    "test": "shellcheck contrib-rocket.sh",
     "postinstall": "./contrib-rocket.sh"
   },
   "repository": {
