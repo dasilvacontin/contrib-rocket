@@ -11,6 +11,8 @@ before_install:
   - nvm install $NODE_VERSION
   - nvm use --delete-prefix $NODE_VERSION
   - brew install shellcheck
+  - echo $LC_CTYPE
+  - locale
 install:
   - npm install
 script:
