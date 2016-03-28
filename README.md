@@ -6,14 +6,11 @@ Strictly speaking, contrib-rocket is a minimal shell script that glues [gh-contr
 
 ## Install
 
-### Via [antigen][antigen]/[zgen][zgen] (aka the cool way):
+### Via [npm][npm]
 
 ```sh
-antigen bundle dasilvacontin/contrib-rocket
-zgen load dasilvacontin/contrib-rocket
+npm i -g contrib-rocket
 ```
-
-If you are using zgen, remember to execute [`zgen reset`][zgen-reset].
 
 ### Else
 
@@ -58,11 +55,9 @@ MIT © [David da Silva](http://dasilvacont.in)
 [github-contributions]: https://help.github.com/articles/viewing-contributions-on-your-profile-page/
 [spark]: https://github.com/holman/spark
 [rocket-emoji]: http://emojipedia.org/rocket/
+[npm]: https://www.npmjs.com/
 [gh-contribs]: https://github.com/dasilvacontin/gh-contribs
 [nice]: http://gifsec.com/wp-content/uploads/2014/02/boss-gifs.gif
-[antigen]: https://github.com/zsh-users/antigen
-[zgen]: https://github.com/tarjoilija/zgen
-[zgen-reset]: https://github.com/tarjoilija/zgen#remove-the-init-script
 [tmux-screenshot]: tmux-screenshot.png
 [kitlard-imgur]: http://imgur.com/gallery/Sznci
 

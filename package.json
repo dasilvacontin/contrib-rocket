@@ -1,0 +1,42 @@
+{
+  "name": "contrib-rocket",
+  "version": "1.0.0",
+  "description": "🚀🌑 To the moon!",
+  "main": "contrib-rocket.sh",
+  "bin": {
+    "contrib-rocket": "contrib-rocket.sh"
+  },
+  "scripts": {
+    "postinstall": "./contrib-rocket.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git::@github.com/dasilvacontin/contrib-rocket.git"
+  },
+  "files": [
+    "contrib-rocket.sh",
+    "LICENSE"
+  ],
+  "keywords": [
+    "contrib-rocket",
+    "contrib",
+    "rocket",
+    "github",
+    "gh",
+    "contributions",
+    "chart",
+    "graph",
+    "tmux",
+    "status",
+    "bar",
+    "to",
+    "the",
+    "moon"
+  ],
+  "author": "David da Silva <dasilvacontin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasilvacontin/contrib-rocket/issues"
+  },
+  "homepage": "https://github.com/dasilvacontin/contrib-rocket#readme"
+}
